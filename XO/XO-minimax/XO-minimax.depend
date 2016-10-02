@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475402018 source:/home/adhaamehab/Videos/CPP/XO/XO-minimax/DS.cpp
+
+1475405287 source:/home/adhaamehab/Videos/CPP/XO/XO-minimax/Game.cpp
+	<vector>
+	<iostream>
+
+1475405199 source:/home/adhaamehab/Videos/CPP/XO/XO-minimax/main.cpp
+	"Game.cpp"
+
+1475405445 /home/adhaamehab/Videos/CPP/XO/XO-minimax/Game.cpp
+	<vector>
+	<iostream>
+
